@@ -46,3 +46,19 @@
 > - -v0 is setting error messages to zero
 > - -o is what we want the file name of the output to be for the binary
 
+## Setup the Stella Emulator
+
+*STEP 1*
+> After completing your setup of the DASM Assembler and compiling your code, download the Stella emulator from https://stella-emu.github.io/downloads.html.
+
+*STEP 2*
+> Install the emulator.
+
+*STEP 3*
+> Run the emulator and then go to the bin file that you created using the DASM Assembler.
+
+*STEP 4*
+> Double click on the bin file.
+
+*STEP 5*
+> Click on ` on the keyboard to open the debugger.
